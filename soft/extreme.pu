@@ -1,0 +1,61 @@
+@startmindmap
+*[#Orange] Extreme Programming
+right side
+** Values
+*** Communication
+*** Feedback
+*** Simplicity
+*** Respect
+*** Courage
+
+** Principles
+*** Improvement
+**** Reflection
+**** Flow
+**** Mutual benefit
+*** Accepted Responsibility
+*** Baby steps
+*** Quality
+**** Redundancy
+**** Failure
+**** Opportunity
+
+left side
+** Primary
+*** People
+**** Pair Programming
+**** Whole team
+**** Energized work
+**** Sit togheter
+*** 10 min build
+*** CI
+*** Incremental Design
+*** TDD
+*** process
+**** Slack
+**** Informative workspace
+**** Stories
+**** Weekly cycle
+**** Quartely cycle
+** Collary
+*** Code and test
+*** Incremental deploy
+*** Shared Code
+*** Daily deployment
+*** Single code base
+*** People
+**** Shrinking teams
+**** Team continuity
+**** Root cause
+*** Customer involvment
+**** Pay per use
+**** negotiate scope
+
+legend
+* Put improvment to work by not waiting for perfection. Find a starting place, get started, and improve from there.
+* Isn't failure waste? No, not if it imparts knowledge.
+* Some design upfront is necessary, but just enough to get the initial implementation. Further design takes place once the implementation is in place and the real constraints on the design are obvious.
+* An interested oserver should be able to walk into the team space and get a general idea of how the project is going in fifteen seconds.
+endlegend
+@endmindmap
+
